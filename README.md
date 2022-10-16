@@ -1,2 +1,3 @@
 # test_repo
-Test repo
+Here is the information about the repo:
+My test repo
