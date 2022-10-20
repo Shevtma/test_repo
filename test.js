@@ -1,3 +1,4 @@
 let x = 1
 let y = 2
-console.log(x+y)
+sum = x + y
+console.log('sum = ' + sum)
